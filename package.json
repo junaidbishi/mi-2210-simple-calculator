@@ -1,6 +1,6 @@
 {
   "name": "mi-2210-simple-calculator",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "description": "",
   "main": "main.js",
   "type": "module",
