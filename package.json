@@ -1,7 +1,7 @@
 {
-  "name": "onetwo-simple-calculator",
+  "name": "mi-2210-simple-calculator",
   "version": "1.0.1",
-  "description": "onetwo-simple-calculator",
+  "description": "",
   "main": "main.js",
   "type": "module",
   "bin": "main.js",
